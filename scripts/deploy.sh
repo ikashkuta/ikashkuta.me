@@ -22,3 +22,7 @@ git push origin master
 
 # Come Back
 cd ..
+
+git add public
+git commit -m "Update github pages submodule"
+git push origin master

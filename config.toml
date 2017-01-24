@@ -1,3 +1,10 @@
-title = "Igor Kashkuta"
 baseurl = "http://ikashkuta.me/"
+title = "Igor Kashkuta"
+theme = "hugo-cactus-theme"
 googleAnalytics = "UA-71479026-2"
+
+[params]
+	name = "Igor Kashkuta"
+	description = "My personal website"
+	twitter = "ikashkuta"
+	enableRSS = true
